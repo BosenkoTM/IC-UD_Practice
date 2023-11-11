@@ -1,5 +1,24 @@
 # Создание образа
 DOCKERFILE - это обычный текстовый файл, где мы при помощи инструкций (FROM, CMD и т.д.) описываем каким должен быть наш образ, то есть расширяем его функционал. Каждая инструкция создает слой.
+
+Официальный контейнер [Ubuntu 14](https://github.com/dockerfile/ubuntu).
+ - скачать репо `https://github.com/dockerfile/ubuntu.git`;
+```
+ git clone https://github.com/dockerfile/ubuntu.git
+``` 
+ - зайти в корневой каталог Ubuntu;
+ - выполнить команду:
+
+```
+ sudo docker build .
+```
+
+ Проверяем наличие образа на ПК:
+ ```
+ sudo docker image ls
+```
+
+
 ## Пример DOCKERFILE
 ```
 # Указываем образ для контейнера
