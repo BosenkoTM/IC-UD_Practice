@@ -99,11 +99,3 @@
 - CI/CD
 - Kubernetes
 
-
-## Практические работы(работа на занятии)
-- `ПР 1`. [First Alpine Linux Containers](https://training.play-with-docker.com/ops-s1-hello/).
-- `ПР 2`. [Docker for Beginners - Linux](https://training.play-with-docker.com/beginner-linux/).
-- `ПР 3`. [Swarm Mode Introduction for IT Pros](https://training.play-with-docker.com/ops-s1-swarm-intro/).
-- `ПР 4`. [Swarm mode introduction](https://training.play-with-docker.com/swarm-mode-intro/).
-- `ПР 5`. [Application Containerization and Microservice Orchestration](https://training.play-with-docker.com/microservice-orchestration/).
-- `ПР 6`. [Docker images deeper dive](https://training.play-with-docker.com/docker-images/).
